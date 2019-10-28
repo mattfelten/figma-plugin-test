@@ -1,0 +1,7 @@
+{
+  "name": "ServiceTitan",
+  "id": "770746133339487564",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
